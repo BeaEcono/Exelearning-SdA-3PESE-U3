@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>nova</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260505222729OOZR8C</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260505222729O0H8S9</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>PESE - 3º ESO - IES La Ería - U3. La empresa y sus elementos. Descripción de la SdA.
+</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Beatriz Prendes Sánchez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>En este documento se definen 2 situaciones de aprendizaje relativas a la materia optativa de 3º de ESO, Proyecto de Emprendimiento Social o Económico (PESE).</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>nova</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778012717095</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mot2fns7-71dpbh2d0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PESE - 3º ESO - IES La Ería - U3. La empresa y sus elementos. Descripción de la SdA.</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PESE - 3º ESO - IES La Ería - U3. La empresa y sus elementos. Descripción de la SdA.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot2fns7-71dpbh2d0</odePageId>
+      <odeBlockId>block-mot2fns8-kjvs133u2</odeBlockId>
+      <blockName>SdA &quot;Conociendo el tejido empresarial asturiano&quot; y SdA &quot;Descubre los costes de la empresa&quot;</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot2fns7-71dpbh2d0</odePageId>
+          <odeBlockId>block-mot2fns8-kjvs133u2</odeBlockId>
+          <odeIdeviceId>idevice-mot2fns8-cjzohs5ps</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Las Situaciones de Aprendizaje (SdA) que se desarrollan en este documento están diseñadas para la materia <strong><em>"Proyecto de Emprendimiento Social o Empresarial"</em></strong> (PESE) de <strong>3º de ESO.</strong>  PESE es una materia optativa de acuerdo con el Decreto 59/2022 que regula el currículo para la ESO en el Ppdo. de Asturias con dos horas de dedicación semanal.</p>
+<p style="text-align: justify;">Dicha SdA se enmarca dentro de la Unidad 3 de la programación de aula redactada para el curso 2025-2026. El <strong>grupo-clase</strong> al que va dirigida la programación está compuesto por 22 estudiantes de 3 grupos de 3º ESO (3ºE, 3ºF y 3ºDiv.). En cuanto a la distribución por sexo, el 50% de la clase son chicos y el otro 50%, chicas. Se trata de un grupo de alumnos con buen comportamiento, en general. Los alumnos del grupo ordinario son muy autónomos, no así los de PDC, que tienen importantes dificultades de comprensión. Los 4 estudiantes de PDC (2 chicos y 2 chicas) son NEAE por incorporación tardía al sistema educativo español. </p>
+<p style="text-align: justify;">Para favorecer la cohesión del grupo clase y siguiendo los principios del DUA se han utilizado diversos <strong>agrupamientos</strong> a lo largo del  curso. La organización espacial del aula viene marcada por la disposición de los ordenadores del aula de informática donde tienen lugar las sesiones de clase. </p>
+<p style="text-align: justify;">El presente curso de divide en tres Unidades de Programación y un Proyecto de Emprendimiento de acuerdo con la siguiente <strong>temporalización</strong>:</p>
+<table border="1" style="width: 100%; height: 79px; border-color: #236FA1; border-style: solid;">
+<tbody>
+<tr style="height: 23px;">
+<td style="width: 12.1333%; height: 23px; text-align: center;"><strong>Temporalización</strong></td>
+<td style="width: 87.8667%; height: 23px;"><strong>Unidades y Proyectos</strong><b><br /></b></td>
+</tr>
+<tr style="height: 23px;">
+<td style="width: 12.1333%; height: 23px; text-align: center;"><strong>T1</strong></td>
+<td style="width: 87.8667%; height: 23px;">Unidad 1 - Cualidades del emprendedor</td>
+</tr>
+<tr style="height: 10px;">
+<td style="width: 12.1333%; height: 10px; text-align: center;"><strong>T2</strong></td>
+<td style="width: 87.8667%; height: 10px;">
+<p>Unidad 2 - Puesta en marcha de un proyecto emprendedor</p>
+<p>Proyecto emprendedor - Concurso AEFAS - Imagina tu empresa en Asturias</p>
+</td>
+</tr>
+<tr style="height: 23px;">
+<td style="width: 12.1333%; height: 23px; text-align: center;"><strong>T3</strong></td>
+<td style="width: 87.8667%; height: 23px;">
+<p>Unidad 3 - La empresa</p>
+<p>Proyecto emprendedor - Concurso AEFAS - Imagina tu empresa en Asturias</p>
+<p>Proyecto emprendedor - Estudio de viabilidad y defensa de proyectos</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: justify;">En este documento digital nos vamos a centrar en la <strong>Unidad 3 </strong>que tendrá lugar en el tercer trimestre. La Unidad 3 se desarrolla a la vez que el Proyecto de Emprendimiento Económico y Social y en ella se abordan una serie de conceptos teóricos relacionados con el mundo de la empresa que el alumnado debe dominar para poder desarrollar el proyecto. A pesar de tratarse de la parte más teórica de la materia, se implementarán metodologías activas en el aula para su abordaje.</p>
+<p style="text-align: justify;">Así pues, durante el tercer trimestre, la docente intercalará sesiones de trabajo de la U3 con sesiones de trabajo en el proyecto, el cual se desarrollará mediante tareas de Teams. En las siguientes páginas definiré la intención educativa que persigue esta Unidad, desarrollaré los elementos curriculares de la misma, <strong>abordaré la metodología utilizada haciendo hincapié en la organización de las actividades de clase dentro de Situaciones de Aprendizaje motivadoras para el alumnado</strong> y explicaré la relación de la Unidad con los proyectos y programas de Centro, así como las actividades complementarias y extraescolares,</p>
+<p style="text-align: justify;">En relación con los <strong>recursos</strong> necesarios para el desarrollo de la Unidad, como ya se ha mencionado, el aula de referencia de esta materia es el aula de informática. Con lo que todos los/as alumnos/as contarán con un ordenador con conexión a internet durante las sesiones de clase. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mot2fns8-cjzohs5ps","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Las Situaciones de Aprendizaje (SdA) que se desarrollan en este documento están diseñadas para la materia <strong><em>\"Proyecto de Emprendimiento Social o Empresarial\"</em></strong> (PESE) de <strong>3º de ESO.</strong>  PESE es una materia optativa de acuerdo con el Decreto 59/2022 que regula el currículo para la ESO en el Ppdo. de Asturias con dos horas de dedicación semanal.</p>\n<p style=\"text-align: justify;\">Dicha SdA se enmarca dentro de la Unidad 3 de la programación de aula redactada para el curso 2025-2026. El <strong>grupo-clase</strong> al que va dirigida la programación está compuesto por 22 estudiantes de 3 grupos de 3º ESO (3ºE, 3ºF y 3ºDiv.). En cuanto a la distribución por sexo, el 50% de la clase son chicos y el otro 50%, chicas. Se trata de un grupo de alumnos con buen comportamiento, en general. Los alumnos del grupo ordinario son muy autónomos, no así los de PDC, que tienen importantes dificultades de comprensión. Los 4 estudiantes de PDC (2 chicos y 2 chicas) son NEAE por incorporación tardía al sistema educativo español. </p>\n<p style=\"text-align: justify;\">Para favorecer la cohesión del grupo clase y siguiendo los principios del DUA se han utilizado diversos <strong>agrupamientos</strong> a lo largo del  curso. La organización espacial del aula viene marcada por la disposición de los ordenadores del aula de informática donde tienen lugar las sesiones de clase. </p>\n<p style=\"text-align: justify;\">El presente curso de divide en tres Unidades de Programación y un Proyecto de Emprendimiento de acuerdo con la siguiente <strong>temporalización</strong>:</p>\n<table border=\"1\" style=\"width: 100%; height: 79px; border-color: #236FA1; border-style: solid;\">\n<tbody>\n<tr style=\"height: 23px;\">\n<td style=\"width: 12.1333%; height: 23px; text-align: center;\"><strong>Temporalización</strong></td>\n<td style=\"width: 87.8667%; height: 23px;\"><strong>Unidades y Proyectos</strong><b><br /></b></td>\n</tr>\n<tr style=\"height: 23px;\">\n<td style=\"width: 12.1333%; height: 23px; text-align: center;\"><strong>T1</strong></td>\n<td style=\"width: 87.8667%; height: 23px;\">Unidad 1 - Cualidades del emprendedor</td>\n</tr>\n<tr style=\"height: 10px;\">\n<td style=\"width: 12.1333%; height: 10px; text-align: center;\"><strong>T2</strong></td>\n<td style=\"width: 87.8667%; height: 10px;\">\n<p>Unidad 2 - Puesta en marcha de un proyecto emprendedor</p>\n<p>Proyecto emprendedor - Concurso AEFAS - Imagina tu empresa en Asturias</p>\n</td>\n</tr>\n<tr style=\"height: 23px;\">\n<td style=\"width: 12.1333%; height: 23px; text-align: center;\"><strong>T3</strong></td>\n<td style=\"width: 87.8667%; height: 23px;\">\n<p>Unidad 3 - La empresa</p>\n<p>Proyecto emprendedor - Concurso AEFAS - Imagina tu empresa en Asturias</p>\n<p>Proyecto emprendedor - Estudio de viabilidad y defensa de proyectos</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: justify;\">En este documento digital nos vamos a centrar en la <strong>Unidad 3 </strong>que tendrá lugar en el tercer trimestre. La Unidad 3 se desarrolla a la vez que el Proyecto de Emprendimiento Económico y Social y en ella se abordan una serie de conceptos teóricos relacionados con el mundo de la empresa que el alumnado debe dominar para poder desarrollar el proyecto. A pesar de tratarse de la parte más teórica de la materia, se implementarán metodologías activas en el aula para su abordaje.</p>\n<p style=\"text-align: justify;\">Así pues, durante el tercer trimestre, la docente intercalará sesiones de trabajo de la U3 con sesiones de trabajo en el proyecto, el cual se desarrollará mediante tareas de Teams. En las siguientes páginas definiré la intención educativa que persigue esta Unidad, desarrollaré los elementos curriculares de la misma, <strong>abordaré la metodología utilizada haciendo hincapié en la organización de las actividades de clase dentro de Situaciones de Aprendizaje motivadoras para el alumnado</strong> y explicaré la relación de la Unidad con los proyectos y programas de Centro, así como las actividades complementarias y extraescolares,</p>\n<p style=\"text-align: justify;\">En relación con los <strong>recursos</strong> necesarios para el desarrollo de la Unidad, como ya se ha mencionado, el aula de referencia de esta materia es el aula de informática. Con lo que todos los/as alumnos/as contarán con un ordenador con conexión a internet durante las sesiones de clase. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot2fns7-9n84nz0lu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot2fns7-9n84nz0lu</odePageId>
+      <odeBlockId>block-mot2fns8-qsief62wo</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot2fns7-9n84nz0lu</odePageId>
+          <odeBlockId>block-mot2fns8-qsief62wo</odeBlockId>
+          <odeIdeviceId>idevice-mot2fns8-mwt83t39o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p style="text-align: justify;">Imagina que tienes una idea: un producto, un servicio o una solución a un problema de tu entorno. ¿Cómo podrías convertir esa idea en un proyecto real? ¿Qué necesitarías saber para que funcione y tenga éxito? En esta unidad vamos a adentrarnos en el mundo de la empresa, entendida como una pieza clave de la economía y de nuestra vida cotidiana.</p>
+<p style="text-align: justify;">A lo largo de esta Unidad, aprenderás qué es una empresa y cuáles son sus elementos fundamentales, cómo se organizan internamente y qué objetivos persiguen. También descubrirás cómo se clasifican las empresas, qué áreas funcionales las componen y cómo toman decisiones tan importantes como su localización o su estrategia competitiva en el mercado. Además, analizaremos conceptos esenciales como los costes, los ingresos, los beneficios y la rentabilidad, prestando especial atención a la estructura de costes, un aspecto clave para entender si una empresa es viable o no.</p>
+<p style="text-align: justify;">Otro de los aspectos fundamentales que abordaremos será la Responsabilidad Social Empresarial (RSE), reflexionando sobre el impacto que tienen las empresas en la sociedad y el entorno. No solo se trata de ganar dinero, sino también de actuar de forma ética y sostenible.</p>
+<p style="text-align: justify;">En esta unidad pondremos un énfasis especial en el tejido empresarial asturiano, con el objetivo de que conozcas mejor las empresas de tu entorno, cómo funcionan y qué papel desempeñan en la economía de Asturias. Esto te permitirá conectar los contenidos teóricos con la realidad más cercana.</p>
+<p style="text-align: justify;">🎯 <em><strong>Reto de la unidad</strong></em><br />Recordemos que la U3 viene a acompañar el Proyecto de Emprendimiento que el alumnado debe desarrollar. Así pues, el gran desafío que se te plantea es el siguiente: diseñar tu propio plan de negocio. A lo largo de la unidad irás adquiriendo los conocimientos necesarios para dar forma a una idea empresarial, analizando su viabilidad y tomando decisiones como si fueras un verdadero emprendedor o emprendedora. Pero esto no es todo. Para garantizar la comprensión y asimilación de los conceptos trabajados deberás adquirir un conocimiento profundo de la estructura de costes de una empresa y familiarizarte con la labor que diversas empresas reales desarrollan en nuestro territorio.</p>
+<p style="text-align: justify;">🧩<em><strong> Evaluación y productos finales de la Unidad</strong></em><br />Para demostrar lo aprendido, realizarás dos tareas principales:</p>
+<ul style="text-align: justify;">
+<li>Una infografía sobre una empresa presente en Asturias, donde analizarás sus características, su sector, su estrategia y su importancia en el entorno.</li>
+<li>Un “escape room” centrado en la estructura de costes de una empresa modelo, en el que pondrás a prueba tu capacidad para comprender y aplicar los conceptos económicos de forma práctica y dinámica.</li>
+</ul>
+<p style="text-align: justify;">En definitiva, esta unidad pretende que no solo entiendas qué es una empresa, sino que seas capaz de pensar como alguien que la gestiona, tomando decisiones informadas y valorando el papel que estas desempeñan en la construcción de un mundo más justo y sostenible. En este sentido, los contenidos que vas a trabajar están estrechamente relacionados con los <strong>Objetivos de Desarrollo Sostenible</strong> (ODS) impulsados por la Organización de las Naciones Unidas dentro de la Agenda 2030.</p>
+<p style="text-align: justify;">A continuación, se muestran los ODS que tienen una relación más directa con esta Unidad:</p>
+<p style="text-align: justify;">🌱 <strong>ODS 8: Trabajo decente y crecimiento económico</strong><br />Al estudiar el concepto de empresa, sus objetivos, su rentabilidad o su estrategia competitiva, comprenderás cómo las empresas generan empleo y riqueza. Además, reflexionarás sobre la importancia de que ese crecimiento sea sostenible y ofrezca condiciones laborales dignas.</p>
+<p style="text-align: justify;">🏭 <strong>ODS 9: Industria, innovación e infraestructura</strong><br />El desarrollo de tu propio plan de negocio fomentará el espíritu emprendedor, la innovación y la capacidad de crear soluciones nuevas. También analizarás cómo las empresas compiten e innovan para mantenerse en el mercado.</p>
+<p style="text-align: justify;">🌍 <strong>ODS 12: Producción y consumo responsables</strong><br />A través del estudio de la estructura de costes y la toma de decisiones empresariales, aprenderás a valorar la importancia de utilizar los recursos de forma eficiente. La Responsabilidad Social Empresarial (RSE) te ayudará a entender cómo las empresas pueden reducir su impacto ambiental y social.</p>
+<p style="text-align: justify;">En definitiva, esta unidad te ayudará a entender que las empresas no solo buscan beneficios económicos, sino que también tienen una responsabilidad con la sociedad y el medio ambiente. Como futuro ciudadano o ciudadana —e incluso como posible emprendedor o emprendedora—, conocer estos principios te permitirá tomar decisiones más responsables y alineadas con los retos del mundo actual.</p>
+<p style="text-align: justify;">En esta Unidad podrás acercarte a algunos de los grandes <strong>Retos del siglo XXI,</strong> como la transformación digital, el emprendimiento, la sostenibilidad o la responsabilidad social de las empresas. A través del análisis de empresas asturianas y del desarrollo de tu propio plan de negocio, comprenderás cómo las empresas deben innovar, adaptarse a los cambios y tomar decisiones responsables en un mundo cada vez más globalizado.</p>
+<p style="text-align: justify;">Además, aprenderás a analizar aspectos fundamentales como los costes, los ingresos, la rentabilidad o la estrategia competitiva, desarrollando así un pensamiento crítico y una mejor educación financiera que te ayudará a entender muchas situaciones de la vida real. También trabajarás competencias muy importantes para tu futuro, como la creatividad, la resolución de problemas, el trabajo en equipo y el uso responsable de las herramientas digitales.</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p style=\"text-align: justify;\">Imagina que tienes una idea: un producto, un servicio o una solución a un problema de tu entorno. ¿Cómo podrías convertir esa idea en un proyecto real? ¿Qué necesitarías saber para que funcione y tenga éxito? En esta unidad vamos a adentrarnos en el mundo de la empresa, entendida como una pieza clave de la economía y de nuestra vida cotidiana.</p>\n<p style=\"text-align: justify;\">A lo largo de esta Unidad, aprenderás qué es una empresa y cuáles son sus elementos fundamentales, cómo se organizan internamente y qué objetivos persiguen. También descubrirás cómo se clasifican las empresas, qué áreas funcionales las componen y cómo toman decisiones tan importantes como su localización o su estrategia competitiva en el mercado. Además, analizaremos conceptos esenciales como los costes, los ingresos, los beneficios y la rentabilidad, prestando especial atención a la estructura de costes, un aspecto clave para entender si una empresa es viable o no.</p>\n<p style=\"text-align: justify;\">Otro de los aspectos fundamentales que abordaremos será la Responsabilidad Social Empresarial (RSE), reflexionando sobre el impacto que tienen las empresas en la sociedad y el entorno. No solo se trata de ganar dinero, sino también de actuar de forma ética y sostenible.</p>\n<p style=\"text-align: justify;\">En esta unidad pondremos un énfasis especial en el tejido empresarial asturiano, con el objetivo de que conozcas mejor las empresas de tu entorno, cómo funcionan y qué papel desempeñan en la economía de Asturias. Esto te permitirá conectar los contenidos teóricos con la realidad más cercana.</p>\n<p style=\"text-align: justify;\">🎯 <em><strong>Reto de la unidad</strong></em><br />Recordemos que la U3 viene a acompañar el Proyecto de Emprendimiento que el alumnado debe desarrollar. Así pues, el gran desafío que se te plantea es el siguiente: diseñar tu propio plan de negocio. A lo largo de la unidad irás adquiriendo los conocimientos necesarios para dar forma a una idea empresarial, analizando su viabilidad y tomando decisiones como si fueras un verdadero emprendedor o emprendedora. Pero esto no es todo. Para garantizar la comprensión y asimilación de los conceptos trabajados deberás adquirir un conocimiento profundo de la estructura de costes de una empresa y familiarizarte con la labor que diversas empresas reales desarrollan en nuestro territorio.</p>\n<p style=\"text-align: justify;\">🧩<em><strong> Evaluación y productos finales de la Unidad</strong></em><br />Para demostrar lo aprendido, realizarás dos tareas principales:</p>\n<ul style=\"text-align: justify;\">\n<li>Una infografía sobre una empresa presente en Asturias, donde analizarás sus características, su sector, su estrategia y su importancia en el entorno.</li>\n<li>Un “escape room” centrado en la estructura de costes de una empresa modelo, en el que pondrás a prueba tu capacidad para comprender y aplicar los conceptos económicos de forma práctica y dinámica.</li>\n</ul>\n<p style=\"text-align: justify;\">En definitiva, esta unidad pretende que no solo entiendas qué es una empresa, sino que seas capaz de pensar como alguien que la gestiona, tomando decisiones informadas y valorando el papel que estas desempeñan en la construcción de un mundo más justo y sostenible. En este sentido, los contenidos que vas a trabajar están estrechamente relacionados con los <strong>Objetivos de Desarrollo Sostenible</strong> (ODS) impulsados por la Organización de las Naciones Unidas dentro de la Agenda 2030.</p>\n<p style=\"text-align: justify;\">A continuación, se muestran los ODS que tienen una relación más directa con esta Unidad:</p>\n<p style=\"text-align: justify;\">🌱 <strong>ODS 8: Trabajo decente y crecimiento económico</strong><br />Al estudiar el concepto de empresa, sus objetivos, su rentabilidad o su estrategia competitiva, comprenderás cómo las empresas generan empleo y riqueza. Además, reflexionarás sobre la importancia de que ese crecimiento sea sostenible y ofrezca condiciones laborales dignas.</p>\n<p style=\"text-align: justify;\">🏭 <strong>ODS 9: Industria, innovación e infraestructura</strong><br />El desarrollo de tu propio plan de negocio fomentará el espíritu emprendedor, la innovación y la capacidad de crear soluciones nuevas. También analizarás cómo las empresas compiten e innovan para mantenerse en el mercado.</p>\n<p style=\"text-align: justify;\">🌍 <strong>ODS 12: Producción y consumo responsables</strong><br />A través del estudio de la estructura de costes y la toma de decisiones empresariales, aprenderás a valorar la importancia de utilizar los recursos de forma eficiente. La Responsabilidad Social Empresarial (RSE) te ayudará a entender cómo las empresas pueden reducir su impacto ambiental y social.</p>\n<p style=\"text-align: justify;\">En definitiva, esta unidad te ayudará a entender que las empresas no solo buscan beneficios económicos, sino que también tienen una responsabilidad con la sociedad y el medio ambiente. Como futuro ciudadano o ciudadana —e incluso como posible emprendedor o emprendedora—, conocer estos principios te permitirá tomar decisiones más responsables y alineadas con los retos del mundo actual.</p>\n<p style=\"text-align: justify;\">En esta Unidad podrás acercarte a algunos de los grandes <strong>Retos del siglo XXI,</strong> como la transformación digital, el emprendimiento, la sostenibilidad o la responsabilidad social de las empresas. A través del análisis de empresas asturianas y del desarrollo de tu propio plan de negocio, comprenderás cómo las empresas deben innovar, adaptarse a los cambios y tomar decisiones responsables en un mundo cada vez más globalizado.</p>\n<p style=\"text-align: justify;\">Además, aprenderás a analizar aspectos fundamentales como los costes, los ingresos, la rentabilidad o la estrategia competitiva, desarrollando así un pensamiento crítico y una mejor educación financiera que te ayudará a entender muchas situaciones de la vida real. También trabajarás competencias muy importantes para tu futuro, como la creatividad, la resolución de problemas, el trabajo en equipo y el uso responsable de las herramientas digitales.</p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot2fns7-qjx10yjqh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot2fns7-qjx10yjqh</odePageId>
+      <odeBlockId>block-mot2fns8-3cwl6ow1v</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot2fns7-qjx10yjqh</odePageId>
+          <odeBlockId>block-mot2fns8-3cwl6ow1v</odeBlockId>
+          <odeIdeviceId>idevice-mot2fns8-mhzv0ue1r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>A continuación se presentan los elementos curriculares trabajados en la Unidad:</p>
+<p><img src="{{context_path}}/content/resources/img0.png" width="1125" height="491" alt="Concreción curricular U3 (parte1)" /></p>
+<p><img src="{{context_path}}/content/resources/img1.png" width="1125" height="309" alt="Concreción curricular U3 (parte 2)" /></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p>A continuación se presentan los elementos curriculares trabajados en la Unidad:</p>\n<p><img src=\"{{context_path}}/content/resources/img0.png\" width=\"1125\" height=\"491\" alt=\"Concreción curricular U3 (parte1)\" /></p>\n<p><img src=\"{{context_path}}/content/resources/img1.png\" width=\"1125\" height=\"309\" alt=\"Concreción curricular U3 (parte 2)\" /></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot2fns7-glx5ljqtz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Metodologías activas y SdA</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas y SdA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot2fns7-glx5ljqtz</odePageId>
+      <odeBlockId>block-mot2fns8-7t1orz90a</odeBlockId>
+      <blockName>Metodologías activas</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot2fns7-glx5ljqtz</odePageId>
+          <odeBlockId>block-mot2fns8-7t1orz90a</odeBlockId>
+          <odeIdeviceId>idevice-mot2fns8-3ut9te8r8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p style="text-align: justify;">La metodología empleada en esta Unidad combinará diferentes estrategias activas y participativas con el objetivo de favorecer un aprendizaje práctico, motivador y conectado con la realidad del alumnado. De este modo, los estudiantes no solo adquirirán conocimientos teóricos sobre la empresa, sino que también aprenderán a aplicarlos en situaciones reales y cercanas a su entorno.</p>
+<p style="text-align: justify;">Las <strong>sesiones expositivas</strong> se utilizarán para introducir y explicar los conceptos fundamentales de la unidad, como el concepto de empresa, sus elementos, los costes, la rentabilidad o las áreas funcionales. Estas explicaciones se apoyarán en ejemplos reales, especialmente de empresas asturianas, fomentando la participación del alumnado mediante preguntas y pequeños debates.</p>
+<p style="text-align: justify;">El <strong>aprendizaje basado en proyectos (ABP)</strong> estará presente a través del desarrollo del plan de negocio que el alumnado elaborará a lo largo del Trimestre. Este proyecto permitirá aplicar de manera integrada los contenidos trabajados, favoreciendo la creatividad, la iniciativa emprendedora y la toma de decisiones.</p>
+<p style="text-align: justify;">El <strong>trabajo colaborativo</strong> tendrá un papel importante en la realización de actividades grupales, como la elaboración de la infografía sobre una empresa asturiana o determinadas dinámicas de análisis empresarial. A través de estas tareas, el alumnado desarrollará habilidades sociales como la comunicación, la cooperación y el reparto de responsabilidades.</p>
+<p style="text-align: justify;">La <strong>gamificación</strong> se incorporará mediante un escape room educativo centrado en la estructura de costes de una empresa. Esta actividad permitirá reforzar contenidos económicos de forma motivadora, fomentando la resolución de problemas y el aprendizaje activo.</p>
+<p style="text-align: justify;">La <strong>investigación</strong> será fundamental para que el alumnado conozca el tejido empresarial asturiano. Los estudiantes deberán buscar, seleccionar y analizar información sobre empresas reales, desarrollando así su capacidad crítica y su autonomía en el aprendizaje.</p>
+<p style="text-align: justify;">Por último, <strong>el uso de las TIC</strong> estará presente durante toda la Unidad mediante herramientas digitales para la búsqueda de información, la elaboración de infografías, presentaciones y actividades interactivas. Estas tecnologías facilitarán un aprendizaje más visual, dinámico y adaptado a las competencias digitales que el alumnado necesita desarrollar en la actualidad.</p>
+<p style="text-align: justify;"><img src="{{context_path}}/content/resources/Metodologias.png" alt="" width="1536" height="1024" /></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p style=\"text-align: justify;\">La metodología empleada en esta Unidad combinará diferentes estrategias activas y participativas con el objetivo de favorecer un aprendizaje práctico, motivador y conectado con la realidad del alumnado. De este modo, los estudiantes no solo adquirirán conocimientos teóricos sobre la empresa, sino que también aprenderán a aplicarlos en situaciones reales y cercanas a su entorno.</p>\n<p style=\"text-align: justify;\">Las <strong>sesiones expositivas</strong> se utilizarán para introducir y explicar los conceptos fundamentales de la unidad, como el concepto de empresa, sus elementos, los costes, la rentabilidad o las áreas funcionales. Estas explicaciones se apoyarán en ejemplos reales, especialmente de empresas asturianas, fomentando la participación del alumnado mediante preguntas y pequeños debates.</p>\n<p style=\"text-align: justify;\">El <strong>aprendizaje basado en proyectos (ABP)</strong> estará presente a través del desarrollo del plan de negocio que el alumnado elaborará a lo largo del Trimestre. Este proyecto permitirá aplicar de manera integrada los contenidos trabajados, favoreciendo la creatividad, la iniciativa emprendedora y la toma de decisiones.</p>\n<p style=\"text-align: justify;\">El <strong>trabajo colaborativo</strong> tendrá un papel importante en la realización de actividades grupales, como la elaboración de la infografía sobre una empresa asturiana o determinadas dinámicas de análisis empresarial. A través de estas tareas, el alumnado desarrollará habilidades sociales como la comunicación, la cooperación y el reparto de responsabilidades.</p>\n<p style=\"text-align: justify;\">La <strong>gamificación</strong> se incorporará mediante un escape room educativo centrado en la estructura de costes de una empresa. Esta actividad permitirá reforzar contenidos económicos de forma motivadora, fomentando la resolución de problemas y el aprendizaje activo.</p>\n<p style=\"text-align: justify;\">La <strong>investigación</strong> será fundamental para que el alumnado conozca el tejido empresarial asturiano. Los estudiantes deberán buscar, seleccionar y analizar información sobre empresas reales, desarrollando así su capacidad crítica y su autonomía en el aprendizaje.</p>\n<p style=\"text-align: justify;\">Por último, <strong>el uso de las TIC</strong> estará presente durante toda la Unidad mediante herramientas digitales para la búsqueda de información, la elaboración de infografías, presentaciones y actividades interactivas. Estas tecnologías facilitarán un aprendizaje más visual, dinámico y adaptado a las competencias digitales que el alumnado necesita desarrollar en la actualidad.</p>\n<p style=\"text-align: justify;\"><img src=\"{{context_path}}/content/resources/Metodologias.png\" alt=\"\" width=\"1536\" height=\"1024\" /></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mot2fns7-glx5ljqtz</odePageId>
+      <odeBlockId>block-mot2fns9-z4464swn1</odeBlockId>
+      <blockName>SdA &quot;Conoce el tejido empresarial asturiano&quot;</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot2fns7-glx5ljqtz</odePageId>
+          <odeBlockId>block-mot2fns9-z4464swn1</odeBlockId>
+          <odeIdeviceId>idevice-mot2fns9-lid3renv9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><img src="{{context_path}}/content/resources/img0.1.png" width="1125" height="652" alt="SdA "Conociendo el tejido empresarial asturiano"" /></p>
+<p><strong>Enlaces a recursos:</strong></p>
+<p>📰 La Voz de Asturias (2026). <em><a href="https://www.lavozdeasturias.es/noticia/asturias/2026/01/19/grandes-empleadoras-asturias-11-empresas-plantillas-superan-1000-trabajadores/00031768821957235117803.htm?classId=6c514b2f-8501-41c0-924b-c3f9896c45f0">“Las grandes empleadoras de Asturias, 11 empresas con plantillas que superan los 1.000 trabajadores”</a></em></p>
+<p>📰 La Voz de Asturias (2024). <em><a href="https://www.lavozdeasturias.es/noticia/asturias/2024/01/11/nueve-empresas-asturianas-cien-anos/00031704989422851890354.htm?classId=6c514b2f-8501-41c0-924b-c3f9896c45f0">“Estas son las nueve empresas asturianas que tienen más de cien años”</a></em></p>
+<p>▶️ Trailer <em><a href="https://www.youtube.com/watch?v=aXp8nQem_cA">“Pepsi, ¿dónde está mi jet?"</a></em> . Netflix</p>
+<p>▶️ Anuncio <em><a href="https://www.youtube.com/watch?v=H2-unrKVVDI">“1880, el turrón más caro del mundo”</a></em></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><img src=\"{{context_path}}/content/resources/img0.1.png\" width=\"1125\" height=\"652\" alt=\"SdA \"Conociendo el tejido empresarial asturiano\"\" /></p>\n<p><strong>Enlaces a recursos:</strong></p>\n<p>📰 La Voz de Asturias (2026). <em><a href=\"https://www.lavozdeasturias.es/noticia/asturias/2026/01/19/grandes-empleadoras-asturias-11-empresas-plantillas-superan-1000-trabajadores/00031768821957235117803.htm?classId=6c514b2f-8501-41c0-924b-c3f9896c45f0\">“Las grandes empleadoras de Asturias, 11 empresas con plantillas que superan los 1.000 trabajadores”</a></em></p>\n<p>📰 La Voz de Asturias (2024). <em><a href=\"https://www.lavozdeasturias.es/noticia/asturias/2024/01/11/nueve-empresas-asturianas-cien-anos/00031704989422851890354.htm?classId=6c514b2f-8501-41c0-924b-c3f9896c45f0\">“Estas son las nueve empresas asturianas que tienen más de cien años”</a></em></p>\n<p>▶️ Trailer <em><a href=\"https://www.youtube.com/watch?v=aXp8nQem_cA\">“Pepsi, ¿dónde está mi jet?\"</a></em> . Netflix</p>\n<p>▶️ Anuncio <em><a href=\"https://www.youtube.com/watch?v=H2-unrKVVDI\">“1880, el turrón más caro del mundo”</a></em></p>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mot2fns7-glx5ljqtz</odePageId>
+      <odeBlockId>block-mot2fns9-d6swdrf5t</odeBlockId>
+      <blockName>SdA &quot;Descubre los costes de la empresa&quot;</blockName>
+      <iconName>perform</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot2fns7-glx5ljqtz</odePageId>
+          <odeBlockId>block-mot2fns9-d6swdrf5t</odeBlockId>
+          <odeIdeviceId>idevice-mot2fns9-rfn29mcv3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><img src="{{context_path}}/content/resources/img0.2.png" width="1125" height="280" alt="SdA "Descubre los costes de la empresa"" /></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><img src=\"{{context_path}}/content/resources/img0.2.png\" width=\"1125\" height=\"280\" alt=\"SdA \"Descubre los costes de la empresa\"\" /></p>"}]]></jsonProperties>
+          <odeComponentsOrder>2</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot2fns7-1cn8o2vvt</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot2fns7-1cn8o2vvt</odePageId>
+      <odeBlockId>block-mot2fns9-cuz5r50bb</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot2fns7-1cn8o2vvt</odePageId>
+          <odeBlockId>block-mot2fns9-cuz5r50bb</odeBlockId>
+          <odeIdeviceId>idevice-mot2fns9-i8t0uv4v5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p style="text-align: justify;">El área de Economía participa activamente en el Plan Lector y en el programa TIC del Centro. Asimismo, este año participamos en la Vª edición del concurso <em>"Imagina tu empresa en Asturias"</em> organizado por la Asociación de la empresa familiar asturiana (AEFAS), en colaboración con El Ayuntamiento de Oviedo, el Principado de Asturias y varia empresas privadas asturianas. </p>
+<p style="text-align: justify;"><strong>Plan Lector de Centro </strong><br />Leído el plan, y atendiendo a sus principios generales, objetivos y temporalización, desde la materia de PESE se establecen las siguientes actuaciones:</p>
+<ul style="text-align: justify;">
+<li style="text-align: justify;"><em><strong>Proyectos de investigación:</strong></em> Las estrategias investigadoras están presentes en la totalidad de las Us incluidas en esta programación. Para facilitar que los estudiantes se acostumbren a desarrollar trabajos académicos o de investigación de calidad se les proporcionarán una serie de normas relativas a la presentación, el paginado, la estructura del contenido o la forma de citar las fuentes de información. Concretamente, en esta Unidad, los y las estudiantes deberán desarrollar una infografía sobre una empresa presente en Asturias. En esta tarea será especialmente relevante la elección de fuentes de información fiables.</li>
+<li style="text-align: justify;"><strong><em>Manejo y lectura de artículos de prensa:</em></strong> Bien al inicio bien al final de cada UP, la docente llevará al aula, noticias que permitan ilustrar la actualidad del tema trabajado en la Unidad. Estas noticias podrán ser proyectadas en la pizarra y comentadas por la docente; entregadas al alumnado en papel y leídas en voz alta por el mismo para su posterior comentario o leídas en silencio por cada alumno de manera individual para contestar una serie de preguntas planteadas por la docente que serán entregadas para su evaluación. Este ejercicio nos servirá para trabajar la CCL con nuestros estudiantes al tiempo que reforzamos la idea de la utilidad de estudiar Economía por su cercanía con las controversias cotidianas. Ello favorecerá también la adquisición por parte del alumnado del vocabulario específico de la asignatura. Concretamente, en esta Unidad se entregarán noticias sobre las principales empleadores de Asturias en el sector privado.</li>
+</ul>
+<p style="text-align: justify;"><strong>Plan de Aplicación de las TIC en el Aula</strong><br />Desde la asignatura PESE se fomentará el uso e interés por las nuevas tecnologías a través de actividades, tareas y trabajos enmarcados en las distintas UPs. En concreto la CD se fomentará a través de:</p>
+<ul style="text-align: justify;">
+<li>   Búsqueda y análisis de información en Internet relacionada con la materia.</li>
+<li>   Uso de páginas web de organismos oficiales y de webs especializadas en Economía.</li>
+<li>   Manejo de procesadores de texto, hojas de cálculo y programas de presentaciones.</li>
+<li>   Uso del correo electrónico y del Teams para la comunicación entre profesor-alumno.</li>
+<li>   Realización de tareas interactivas en línea para reforzar conceptos clave de las distintas unidades y facilitar el trabajo en casa del alumnado.</li>
+</ul>
+<p style="text-align: justify;"><strong>Concurso AEFAS <em>"Imagina tu empresa en Asturias"</em></strong></p>
+<p style="text-align: justify;">La Asociación de la Empresa Familiar Asturiana (AEFAS), en colaboración con el Principado de Asturias, Ayuntamiento de Oviedo, Fundación Caja Rural de Asturias, ALSA y Funeraria Gijonesa convocan la V edición del Concurso Imagina tu Empresa en Asturias con la finalidad de reforzar la educación emprendedora, las vocaciones y el espíritu emprendedor entre los más jóvenes asturianos, y acercar el mundo de la empresa a las aulas.</p>
+<p style="text-align: justify;">Pueden presentarse a este concurso todos los equipos de estudiantes de ESO, Bachillerato, Formación Profesional y Diversidad Funcional de los centros educativos de Asturias que participan en la quinta edición del Programa “Empresa Familiar en las aulas” curso 2025/2026 así como los equipos de estudiantes que hayan participado en ediciones anteriores.</p>
+<p style="text-align: justify;">Los equipos participantes estarán constituidos por un profesor o profesora, un mínimo de dos estudiantes y un máximo de cuatro. Cada estudiante solo podrá formar parte de un equipo.</p>
+<p style="text-align: justify;">El concurso consiste en que cada equipo defina/describa/explique la creación de su empresa ideal, independientemente de su viabilidad como negocio, pudiendo ser de cualquier sector o actividad económica. El proyecto de creación de empresa se presentará mediante una redacción o en otros formatos (presentaciones de diapositivas, póster, vídeo), pudiendo utilizarse también elementos gráficos (dibujo, fotografía, collage) para reforzar los contenidos. En el caso de los trabajos en video, deberán presentarse en un USB, con un formato MP4 o MOV, un tamaño máximo de 4 GB y una duración que no deberá exceder los 5 minutos.</p>
+<p style="text-align: justify;">Como ya se ha mencionado anteriormente en este documento, el alumnado de 3º trabajará en su proyecto emprendedor al tiempo que se desarrollan los saberes de la U3 que servirán de complemento y base del proyecto. Todos los y las estudiantes matriculados en PESE, agrupados en grupos de 2 a 4 alumnos elaborarán una propuesta de proyecto emprendedor para su evaluación. Aquellos proyectos de mayor calidad y creatividad serán presentados al concurso. </p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p style=\"text-align: justify;\">El área de Economía participa activamente en el Plan Lector y en el programa TIC del Centro. Asimismo, este año participamos en la Vª edición del concurso <em>\"Imagina tu empresa en Asturias\"</em> organizado por la Asociación de la empresa familiar asturiana (AEFAS), en colaboración con El Ayuntamiento de Oviedo, el Principado de Asturias y varia empresas privadas asturianas. </p>\n<p style=\"text-align: justify;\"><strong>Plan Lector de Centro </strong><br />Leído el plan, y atendiendo a sus principios generales, objetivos y temporalización, desde la materia de PESE se establecen las siguientes actuaciones:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\"><em><strong>Proyectos de investigación:</strong></em> Las estrategias investigadoras están presentes en la totalidad de las Us incluidas en esta programación. Para facilitar que los estudiantes se acostumbren a desarrollar trabajos académicos o de investigación de calidad se les proporcionarán una serie de normas relativas a la presentación, el paginado, la estructura del contenido o la forma de citar las fuentes de información. Concretamente, en esta Unidad, los y las estudiantes deberán desarrollar una infografía sobre una empresa presente en Asturias. En esta tarea será especialmente relevante la elección de fuentes de información fiables.</li>\n<li style=\"text-align: justify;\"><strong><em>Manejo y lectura de artículos de prensa:</em></strong> Bien al inicio bien al final de cada UP, la docente llevará al aula, noticias que permitan ilustrar la actualidad del tema trabajado en la Unidad. Estas noticias podrán ser proyectadas en la pizarra y comentadas por la docente; entregadas al alumnado en papel y leídas en voz alta por el mismo para su posterior comentario o leídas en silencio por cada alumno de manera individual para contestar una serie de preguntas planteadas por la docente que serán entregadas para su evaluación. Este ejercicio nos servirá para trabajar la CCL con nuestros estudiantes al tiempo que reforzamos la idea de la utilidad de estudiar Economía por su cercanía con las controversias cotidianas. Ello favorecerá también la adquisición por parte del alumnado del vocabulario específico de la asignatura. Concretamente, en esta Unidad se entregarán noticias sobre las principales empleadores de Asturias en el sector privado.</li>\n</ul>\n<p style=\"text-align: justify;\"><strong>Plan de Aplicación de las TIC en el Aula</strong><br />Desde la asignatura PESE se fomentará el uso e interés por las nuevas tecnologías a través de actividades, tareas y trabajos enmarcados en las distintas UPs. En concreto la CD se fomentará a través de:</p>\n<ul style=\"text-align: justify;\">\n<li>   Búsqueda y análisis de información en Internet relacionada con la materia.</li>\n<li>   Uso de páginas web de organismos oficiales y de webs especializadas en Economía.</li>\n<li>   Manejo de procesadores de texto, hojas de cálculo y programas de presentaciones.</li>\n<li>   Uso del correo electrónico y del Teams para la comunicación entre profesor-alumno.</li>\n<li>   Realización de tareas interactivas en línea para reforzar conceptos clave de las distintas unidades y facilitar el trabajo en casa del alumnado.</li>\n</ul>\n<p style=\"text-align: justify;\"><strong>Concurso AEFAS <em>\"Imagina tu empresa en Asturias\"</em></strong></p>\n<p style=\"text-align: justify;\">La Asociación de la Empresa Familiar Asturiana (AEFAS), en colaboración con el Principado de Asturias, Ayuntamiento de Oviedo, Fundación Caja Rural de Asturias, ALSA y Funeraria Gijonesa convocan la V edición del Concurso Imagina tu Empresa en Asturias con la finalidad de reforzar la educación emprendedora, las vocaciones y el espíritu emprendedor entre los más jóvenes asturianos, y acercar el mundo de la empresa a las aulas.</p>\n<p style=\"text-align: justify;\">Pueden presentarse a este concurso todos los equipos de estudiantes de ESO, Bachillerato, Formación Profesional y Diversidad Funcional de los centros educativos de Asturias que participan en la quinta edición del Programa “Empresa Familiar en las aulas” curso 2025/2026 así como los equipos de estudiantes que hayan participado en ediciones anteriores.</p>\n<p style=\"text-align: justify;\">Los equipos participantes estarán constituidos por un profesor o profesora, un mínimo de dos estudiantes y un máximo de cuatro. Cada estudiante solo podrá formar parte de un equipo.</p>\n<p style=\"text-align: justify;\">El concurso consiste en que cada equipo defina/describa/explique la creación de su empresa ideal, independientemente de su viabilidad como negocio, pudiendo ser de cualquier sector o actividad económica. El proyecto de creación de empresa se presentará mediante una redacción o en otros formatos (presentaciones de diapositivas, póster, vídeo), pudiendo utilizarse también elementos gráficos (dibujo, fotografía, collage) para reforzar los contenidos. En el caso de los trabajos en video, deberán presentarse en un USB, con un formato MP4 o MOV, un tamaño máximo de 4 GB y una duración que no deberá exceder los 5 minutos.</p>\n<p style=\"text-align: justify;\">Como ya se ha mencionado anteriormente en este documento, el alumnado de 3º trabajará en su proyecto emprendedor al tiempo que se desarrollan los saberes de la U3 que servirán de complemento y base del proyecto. Todos los y las estudiantes matriculados en PESE, agrupados en grupos de 2 a 4 alumnos elaborarán una propuesta de proyecto emprendedor para su evaluación. Aquellos proyectos de mayor calidad y creatividad serán presentados al concurso. </p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot2fns7-9jmzkhyp7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot2fns7-9jmzkhyp7</odePageId>
+      <odeBlockId>block-mot2fns9-265rvacnc</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot2fns7-9jmzkhyp7</odePageId>
+          <odeBlockId>block-mot2fns9-265rvacnc</odeBlockId>
+          <odeIdeviceId>idevice-mot2fns9-xqkcoroic</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p style="text-align: justify;">Como ya se ha mencionado, este curso el IES La Ería participó en la Vª edición del concurso escolar "Imagina tu empresa en Asturias" organizado por AEFAS. Como consecuencia de esta participación este curso se han realizado dos actividades complementarias y una actividad extraescolar que han permitido profundizar los saberes básicos trabajados a lo largo del curso: </p>
+<p style="text-align: justify;">Como parte del Vº concurso AEFAS "Imagina tu empresa en Asturias", el IES de La Ería se convirtió en sede de la ponencia inaugural del concurso. </p>
+<p style="text-align: justify;">Dicha ponencia tuvo lugar en el Salón de Actos del IES el 11 de febrero de 2026 y a ella asistieron representantes institucionales, profesores de Economía de varios IES  participantes y el alumnado de La Ería de 3º de la ESO matriculado en PESE. La ponencia fue protagonizada por la Directora General de <strong>Hijos de Luis Rodríguez S.A. (Masymas), </strong>quien habló al alumnado del funcionamiento de las empresas familiares, las cualidades del emprendedor y las ventajas y dificultades que supone el emprendimiento. En el siguiente enlace al Instagram del IES se puede ver un pequeño recuerdo de la charla:</p>
+<p style="text-align: justify;"><img src="{{context_path}}/content/resources/IG.jpg" alt="Logo Instagram" title="Logo Instagram" width="119" height="96" />  <a href="https://www.instagram.com/p/DUoLhTXjHpa/?img_index=1">@IES La Ería</a></p>
+<p>Asimismo, el 7 de abril el alumnado visitó la sede central de Masymas en Lugones donde les hablaron de Marketing y Logística, reforzando los saberes trabajados en la materia relativos a la organización empresarial. Allí pudieron ver de primera mano el funcionamiento de un almacén mecanizado.</p>
+<p><img src="{{context_path}}/content/resources/Almacen_Masymas.jpeg" alt="Almacén Masymas" title="Almacén Masymas" width="631" height="474" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>La parte final de esta colaboración con AEFAS supone la participación en el concurso del alumnado. El plazo de presentación de candidaturas finalizó el 30 de abril de 2026 y en el proyecto presentado, los y las estudiantes abordaron parte de los saberes básicos de la Unidad 3. </p>
+<p><img src="{{context_path}}/content/resources/img2.png" width="740" height="517" alt="Saberes trabajados en el Concurso AEFAS" style="display: block; margin-left: auto; margin-right: auto;" /></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p style=\"text-align: justify;\">Como ya se ha mencionado, este curso el IES La Ería participó en la Vª edición del concurso escolar \"Imagina tu empresa en Asturias\" organizado por AEFAS. Como consecuencia de esta participación este curso se han realizado dos actividades complementarias y una actividad extraescolar que han permitido profundizar los saberes básicos trabajados a lo largo del curso: </p>\n<p style=\"text-align: justify;\">Como parte del Vº concurso AEFAS \"Imagina tu empresa en Asturias\", el IES de La Ería se convirtió en sede de la ponencia inaugural del concurso. </p>\n<p style=\"text-align: justify;\">Dicha ponencia tuvo lugar en el Salón de Actos del IES el 11 de febrero de 2026 y a ella asistieron representantes institucionales, profesores de Economía de varios IES  participantes y el alumnado de La Ería de 3º de la ESO matriculado en PESE. La ponencia fue protagonizada por la Directora General de <strong>Hijos de Luis Rodríguez S.A. (Masymas), </strong>quien habló al alumnado del funcionamiento de las empresas familiares, las cualidades del emprendedor y las ventajas y dificultades que supone el emprendimiento. En el siguiente enlace al Instagram del IES se puede ver un pequeño recuerdo de la charla:</p>\n<p style=\"text-align: justify;\"><img src=\"{{context_path}}/content/resources/IG.jpg\" alt=\"Logo Instagram\" title=\"Logo Instagram\" width=\"119\" height=\"96\" />  <a href=\"https://www.instagram.com/p/DUoLhTXjHpa/?img_index=1\">@IES La Ería</a></p>\n<p>Asimismo, el 7 de abril el alumnado visitó la sede central de Masymas en Lugones donde les hablaron de Marketing y Logística, reforzando los saberes trabajados en la materia relativos a la organización empresarial. Allí pudieron ver de primera mano el funcionamiento de un almacén mecanizado.</p>\n<p><img src=\"{{context_path}}/content/resources/Almacen_Masymas.jpeg\" alt=\"Almacén Masymas\" title=\"Almacén Masymas\" width=\"631\" height=\"474\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p>La parte final de esta colaboración con AEFAS supone la participación en el concurso del alumnado. El plazo de presentación de candidaturas finalizó el 30 de abril de 2026 y en el proyecto presentado, los y las estudiantes abordaron parte de los saberes básicos de la Unidad 3. </p>\n<p><img src=\"{{context_path}}/content/resources/img2.png\" width=\"740\" height=\"517\" alt=\"Saberes trabajados en el Concurso AEFAS\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mot2fns7-6zejahl7x</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Atribución y descarga</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y descarga</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mot2fns7-6zejahl7x</odePageId>
+      <odeBlockId>block-1778012392598-iuj6grnvi</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mot2fns7-6zejahl7x</odePageId>
+          <odeBlockId>block-1778012392598-iuj6grnvi</odeBlockId>
+          <odeIdeviceId>idevice-1778012392596-vmyz9lrmj</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">PESE - 3º ESO - IES La Ería - U3. La empresa y sus elementos. Descripción de la SdA.
+</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked">En este documento, encontrarás dos Situaciones de Aprendizaje relacionadas con la materia optativa de 3º ESO, Proyecto de Emprendimiento Social o Económico (PESE).</td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked">Beatriz Prendes Sánchez</td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
